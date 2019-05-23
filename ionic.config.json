@@ -1,0 +1,7 @@
+{
+  "name": "restrr",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
